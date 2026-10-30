@@ -10,7 +10,7 @@ Discord Bot for playing AIBG style games.
 
 Archived.
 
-Ownership of project has been passed from Bikatr7 to Racekid16.
+Ownership of project has been passed from ktbilyeu to Racekid16.
 
 See https://github.com/Racekid16/Kanrisha for further developments.
 
